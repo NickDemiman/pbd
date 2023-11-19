@@ -1,0 +1,8 @@
+.idea/
+env/
+__pycache__/
+test.*
+pytest.*
+.venv
+.obsidian
+logs
